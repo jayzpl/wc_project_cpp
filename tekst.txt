@@ -1,0 +1,3 @@
+To jest plik wejscowy.
+to jest test.
+To jest trzecia linia.
